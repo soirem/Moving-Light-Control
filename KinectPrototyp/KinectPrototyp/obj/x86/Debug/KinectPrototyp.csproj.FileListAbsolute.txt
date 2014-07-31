@@ -1,0 +1,48 @@
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.baml
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\App.g.cs
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp_MarkupCompile.cache
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.g.resources
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.Properties.Resources.resources
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csproj.GenerateResource.Cache
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Visual Studio 2010\Projects\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.baml
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\App.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp_MarkupCompile.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.g.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.Properties.Resources.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csproj.GenerateResource.Cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\bin\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\bin\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\MainWindow.baml
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\App.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp_MarkupCompile.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.g.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.Properties.Resources.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode\KinectPrototyp1\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csproj.GenerateResource.Cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.exe
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\bin\Debug\KinectPrototyp.pdb
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csprojResolveAssemblyReference.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.baml
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\App.g.cs
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp_MarkupCompile.cache
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.g.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.Properties.Resources.resources
+C:\Users\Jana\Documents\Uni\Bachelorarbeit\SourceCode für Festival MovingHead\KinectPrototyp\KinectPrototyp\obj\x86\Debug\KinectPrototyp.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+﻿<Window x:Class="KinectPrototyp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="718" Width="1000" Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="978*" />
+            <ColumnDefinition Width="0*" />
+        </Grid.ColumnDefinitions>
+        <Image Height="640" HorizontalAlignment="Left" Name="ImageColor" Stretch="Fill" VerticalAlignment="Top" Width="480" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Name="StatusBar" Text="TextBlock" VerticalAlignment="Bottom" Width="978" />
+        <Image Height="640" HorizontalAlignment="Left" Margin="498,0,0,0" Name="ImageSkeleton" Stretch="Fill" VerticalAlignment="Top" Width="480" />
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+C:\Users\sponge\documents\visual studio 2010\Projects\MovingLightControl\MovingLightControl\bin\Debug\MovingLightControl.exe
+C:\Users\sponge\documents\visual studio 2010\Projects\MovingLightControl\MovingLightControl\bin\Debug\MovingLightControl.pdb
+C:\Users\sponge\documents\visual studio 2010\Projects\MovingLightControl\MovingLightControl\obj\x86\Debug\MovingLightControl.exe
+C:\Users\sponge\documents\visual studio 2010\Projects\MovingLightControl\MovingLightControl\obj\x86\Debug\MovingLightControl.pdb
